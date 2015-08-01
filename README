@@ -1,0 +1,3 @@
+Script para lanzar busquedas con la API de Shodan.
+
+Se requiere tener instalada la mencionada API y su respectiva API_Key para su funcionamiento.
